@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello Person 
 
-<!--
-**subject721/subject721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Welcome to my profile*
 
-Here are some ideas to get you started:
+I'm Stefan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I consider myself a software engineer, hobby musician, demoscener and generally friendly person.
+
+I really like
+
+- C++
+- Rust
+- developing networking software
+- Linux
+- oldschool Jungle
+- Thall
+
